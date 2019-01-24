@@ -531,18 +531,43 @@
 <script src="./js/typed.min.js"></script>
 
 <script type="text/javascript">
-//tilt
-$('.main_container').tilt({
-  maxTilt: 1.5,
-  perspective: 400,
-  easing: "cubic-bezier(.03,.98,.52,.99)",
-  easing: "all",
- });
-
-//particlejs
+$(document).ready(function(){
+  $('.portfolio-item').isotope(function(){
+      itemSelector:'.item'
+    });
+  $('.portfolio-menu ul li').click(function(){
+    $('.portfolio-menu ul li').removeClass('active');
+    $(this).addClass('active');
+    var selector = $(this).attr('data-filter');
+      $('.portfolio-item').isotope({
+        filter: selector
+      })
+      return false;
+  });
+});
+$(document).ready(function(){
+     new TypeIt('#typedesc', {
+     speed: 25,
+     startDelay: 200,
+     cursor: false
+     });
+     new TypeIt
+     ('#typedesc2',{
+     speed: 30,
+     startDelay: 8000,
+     cursor: false
+     })
+    });
+    $('.main_container').tilt({
+        maxTilt: 1.5,
+        perspective: 400,
+        easing: "cubic-bezier(.03,.98,.52,.99)",
+        easing: "all",
+       });
 particlesJS.load('particles-js', './js/assets/particles.json', function() {
   console.log('callback - particles.js config loaded');
 });
+
 </script>
 
 </body>
