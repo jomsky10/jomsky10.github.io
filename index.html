@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Portfolio</title>
+    <!-- <link rel="stylesheet" type="text/css" media="screen" href="./css/normalize.css" /> -->
     <link rel="stylesheet" type="text/css" media="screen" href="./css/style.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"> 
     <script src="./js/jquery.min.js"></script>
@@ -292,7 +293,8 @@
             <div class="____container text-center">
                 <div class="portfolio-menu">
                     <ul>
-                    <li class="active" data-filter="*">All Categories</li>
+                    <li class="active" id="trig" data-filter="*">All Categories</li>
+                 
                     <li data-filter=".web">Standard Web Design</li>
                     <li data-filter=".creative">Creative Web Design</li>
                     <li data-filter=".logo">Logo Creation</li>
@@ -380,7 +382,8 @@
                         <div class="__itemcontainer">
                             <div class="__itemcontainer2">
                                     <a class="link" href="#" target="_blank">
-                                        <!-- <i class="fa fa-link"></i> -->
+                                        <i class="fa fa-eye">
+                                        </i>
                                     </a>
                             </div>
                             <div class="__itemcontent" style="background-image: url(./src/portgal/gravity.jpg);">  </div>
@@ -390,7 +393,8 @@
                         <div class="__itemcontainer">
                             <div class="__itemcontainer2">
                                     <a class="link" href="#" target="_blank">
-                                        <!-- <i class="fa fa-link"> </i> -->
+                                        <i class="fa fa-eye">
+                                        </i>
                                     </a>
                             </div>
                             <div class="__itemcontent" style="background-image: url(./src/portgal/ja.jpg);">  </div>
@@ -411,7 +415,8 @@
                         <div class="__itemcontainer">
                             <div class="__itemcontainer2">
                                     <a class="link" href="#" target="_blank">
-                                        <!-- <i class="fa fa-link"></i> -->
+                                        <i class="fa fa-eye">
+                                        </i>
                                     </a>
                             </div>
                             <div class="__itemcontent" style="background-image: url(./src/portgal/angels.jpg);">  </div>
@@ -475,6 +480,10 @@
                         </div>
                     </div>
 
+
+
+
+
              </div>   <!-- end of portfolio container -->
 
 
@@ -530,45 +539,15 @@
 <script src="./js/particles.min.js"></script>
 <script src="./js/typed.min.js"></script>
 
-<script type="text/javascript">
-$(document).ready(function(){
-  $('.portfolio-item').isotope(function(){
-      itemSelector:'.item'
-    });
-  $('.portfolio-menu ul li').click(function(){
-    $('.portfolio-menu ul li').removeClass('active');
-    $(this).addClass('active');
-    var selector = $(this).attr('data-filter');
-      $('.portfolio-item').isotope({
-        filter: selector
-      })
-      return false;
-  });
-});
-$(document).ready(function(){
-     new TypeIt('#typedesc', {
-     speed: 25,
-     startDelay: 200,
-     cursor: false
-     });
-     new TypeIt
-     ('#typedesc2',{
-     speed: 30,
-     startDelay: 8000,
-     cursor: false
-     })
-    });
-    $('.main_container').tilt({
-        maxTilt: 1.5,
-        perspective: 400,
-        easing: "cubic-bezier(.03,.98,.52,.99)",
-        easing: "all",
-       });
-particlesJS.load('particles-js', './js/assets/particles.json', function() {
-  console.log('callback - particles.js config loaded');
-});
 
+
+<script type="text/javascript">
+$(document).ready(function(){$(".portfolio-item").isotope(function(){}),$(".portfolio-menu ul li").click(function(){$(".portfolio-menu ul li").removeClass("active"),$(this).addClass("active");var e=$(this).attr("data-filter");return $(".portfolio-item").isotope({filter:e}),!1})}),$(document).ready(function(){new TypeIt("#typedesc",{speed:25,startDelay:200,cursor:!1}),new TypeIt("#typedesc2",{speed:30,startDelay:8e3,cursor:!1})}),$(".main_container").tilt({maxTilt:1.5,perspective:400,easing:"cubic-bezier(.03,.98,.52,.99)",easing:"all"}),particlesJS.load("particles-js","./js/assets/particles.json",function(){console.log("callback - particles.js config loaded")});$
 </script>
+
+
+
+
 
 </body>
 </html>
