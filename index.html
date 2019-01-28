@@ -299,7 +299,7 @@
                     <li data-filter=".web">Standard Web Design</li>
                     <li data-filter=".creative">Creative Web Design</li>
                     <li data-filter=".logo">Logo Creation</li>
-                    <li data-filter=".prototypes">Prototypes</li>
+                    <li data-filter=".prototypes">Wordpress/DudaOne</li>
                     </ul>
                 </div>
             </div>
@@ -338,7 +338,6 @@
                             <div class="__itemcontent" style="background-image: url(./src/portgal/test1.jpg);">  </div>
                         </div>
                     </div> -->
-
 
 
 
@@ -422,6 +421,19 @@
                     </div>
 
                      <!-- PROTOTYPES    -->
+                    <div class="item prototypes overflow">
+                        <div class="__itemcontainer">
+                            <div class="__itemcontainer2">
+                                    <!-- <a class="link" href="#" target="_blank">
+                                        <i class="fa fa-link"></i>
+                                    </a> -->
+                                    <a class="link" href="#" data-lity data-lity-target="./src/portgal/mockup/wordpress1.jpg">
+                                        <i class="fa fa-eye"></i>
+                                    </a>
+                            </div>
+                            <div class="__itemcontent" style="background-image: url(./src/portgal/wordpress1.jpg);">  </div>
+                        </div>
+                    </div>
                      <div class="item prototypes overflow">
                         <div class="__itemcontainer">
                             <div class="__itemcontainer2">
@@ -525,7 +537,7 @@
 </div>
 
 
-</div> <!--end -->
+</div>
 
 <script src="./js/main.js"></script>
 <script src="./js/jquery.isotope.min.js"></script>
@@ -535,37 +547,42 @@
 <script src="./js/lity.min.js"></script>
 
 <script type="text/javascript">
+
 $(document).ready(function(){
   $('.portfolio-item').isotope(function(){
       itemSelector:'.item'
-    });$('.portfolio-menu ul li').click(function(){
+    }); $('.portfolio-menu ul li').click(function(){
     $('.portfolio-menu ul li').removeClass('active');
-    $(this).addClass('active');
-    var selector = $(this).attr('data-filter');
+    $(this).addClass('active');var selector = $(this).attr('data-filter');
       $('.portfolio-item').isotope({
-        filter: selector})
+        filter: selector
+      })
       return false;
   });});$(document).ready(function(){
      new TypeIt('#typedesc', {
      speed: 25,
      startDelay: 200,
      cursor: false
-     });new TypeIt
+     });
+       new TypeIt
      ('#typedesc2',{
      speed: 30,
      startDelay: 8000,
      cursor: false
-     })
-    });$('.main_container').tilt({
+     })  });$('.main_container').tilt({
         maxTilt: 1.5,
         perspective: 400,
         easing: "cubic-bezier(.03,.98,.52,.99)",
-        easing: "all", });
-particlesJS.load('particles-js', './js/assets/particles.json', function() {
+        easing: "all",
+    });particlesJS.load('particles-js', './js/assets/particles.json', function() {
   console.log('callback - particles.js config loaded');
 });
 
+
 </script>
+
+
+
 
 </body>
 </html>
