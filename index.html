@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Portfolio</title>
+    <title>Portfolio V2</title>
     <!-- <link rel="stylesheet" type="text/css" media="screen" href="./css/normalize.css" /> -->
     <link rel="stylesheet" type="text/css" media="screen" href="./css/style.css" />
     <link rel="stylesheet" href="./css/lity.min.css">
@@ -557,6 +557,14 @@
         </div>
 </div>
 
+<div class="newversion">
+        <a href="https://jomsky10-portfolio-v2.netlify.com/#/" >
+    <div>
+       WIP Portfolio V2 is here!
+    </div>      
+            </a>
+  
+</div>
 
 </div>
 
@@ -572,38 +580,45 @@
 $(document).ready(function(){
   $('.portfolio-item').isotope(function(){
       itemSelector:'.item'
-    }); $('.portfolio-menu ul li').click(function(){
+    });
+
+  $('.portfolio-menu ul li').click(function(){
     $('.portfolio-menu ul li').removeClass('active');
-    $(this).addClass('active');var selector = $(this).attr('data-filter');
+    $(this).addClass('active');
+
+
+    var selector = $(this).attr('data-filter');
       $('.portfolio-item').isotope({
         filter: selector
       })
       return false;
-  });});$(document).ready(function(){
+  });
+
+});
+
+$(document).ready(function(){
      new TypeIt('#typedesc', {
      speed: 25,
      startDelay: 200,
      cursor: false
      });
-       new TypeIt
+     new TypeIt
      ('#typedesc2',{
      speed: 30,
      startDelay: 8000,
      cursor: false
-     })  });$('.main_container').tilt({
+     })
+    });
+    $('.main_container').tilt({
         maxTilt: 1.5,
         perspective: 400,
         easing: "cubic-bezier(.03,.98,.52,.99)",
         easing: "all",
-    });particlesJS.load('particles-js', './js/assets/particles.json', function() {
+       });
+particlesJS.load('particles-js', './js/assets/particles.json', function() {
   console.log('callback - particles.js config loaded');
 });
 
 </script>
-
-
-
-
-
 </body>
 </html>
