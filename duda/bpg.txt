@@ -1,0 +1,193 @@
+<!-- *** ADD OR EDIT HTML INSIDE OF THE dmRespCol DIVS, SEE DOCUMENTATION FOR GUIDELINES *** -->
+<div class="u_1694205906 dmRespRow" style="text-align: center;" id="1694205906">
+ <div class="dmRespColsWrapper" id="1704858392">
+  <div class="dmRespCol small-12 medium-12 large-12" id="1594819959">
+   <!-- *** INSERT YOUR HTML BELOW *** -->
+   <style id="1855548355">
+    *#dm div.dmContent #dmPopup h1 * {
+            font-size: inherit;
+        }
+        *#dm div.dmContent #dmPopup h3 * {
+            font-size: inherit;
+        }
+         *#dm div.dmContent #dmPopup h1 {
+            font-size: inherit;
+        }
+        *#dm div.dmContent #dmPopup h3 {
+            font-size: inherit;
+        }
+   </style>
+   <h1 class="dmNewParagraph u_1312640753" dmle_widget="paragraph" id="1312640753" style="display: block;" no_space_e="true" data-editor-state="closed" data-element-type="paragraph" data-uialign="center">
+    <div style="text-align:center;">
+     <span class="lh-1 size-32" style="background-color:rgba(0, 0, 0, 0);color:rgb(95, 95, 95);font-weight:300;font-family:Roboto;">
+      <div style="text-align: center;">
+       Best Price Guarantee Terms and Conditions (BPG)
+      </div>
+     </span>
+    </div>
+   </h1>
+   <div class="dmNewParagraph u_1364864902" data-dmtmpl="true" id="1364864902" no_space_e="true" data-uialign="left">
+    <div style="text-align:center;" no_space_e="true">
+     <font class="size-16 lh-1">
+     </font>
+     <span class="size-16 lh-1" style="" no_space_b="true" no_space_e="true">
+      <font class="size-16 lh-1" no_space_e="true">
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_e="true">
+        If you find a lower rate for the same offer or rate plan on another website (&ldquo;Competing Rate&rdquo;), get in touch with our guest support team immediately. We will honor the Competing Rate if the claim satisfies all of the following terms:
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        <br no_space_b="true" no_space_e="true"/>
+       </div>
+      </font>
+      <div style="" no_space_b="true" no_space_e="true">
+       <font class="size-16 lh-1" no_space_b="true" no_space_e="true">
+        <ol class="innerList defaultList" no_space_b="true" no_space_e="true" style="color: rgb(95, 95, 95); font-family: Roboto; font-weight: 400; background-color: rgba(0, 0, 0, 0);text-align: left;">
+         <li no_space_b="true" no_space_e="true">The claim is submitted within 24 hours of making a direct booking through the official Herald Suites Solana Website, and at least 24 hours before the standard check-in time at Herald Suites Solana.         </li>
+         <li>The claim contains all pertinent details of the Competing Rate including a link to the website with exact price being quoted.</li>
+         <li>The Competing Rate must be available when Herald Suites Solana checks and validates.</li>
+         <li>If the individual making the valid claim stays in the reserved guest room.</li>
+         <li>The Competing Rate has the same booking conditions as the Herald Suites Solana's online offer. This means it has:</li>
+        </ol>
+       </font>
+      </div>
+     </span>
+    </div>
+    <blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;" no_space_b="true" no_space_e="true">
+     <div style="text-align:center;" no_space_b="true" no_space_e="true">
+      <span class="size-16 lh-1" style="" no_space_b="true" no_space_e="true">
+       <font class="size-16 lh-1" no_space_b="true" no_space_e="true">
+        <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); text-align: left;" no_space_b="true" no_space_e="true">
+         <b no_space_b="true" no_space_e="true">
+          &bull; The same check-in and check-out dates
+         </b>
+        </div>
+       </font>
+      </span>
+     </div>
+     <div style="text-align:center;" no_space_b="true" no_space_e="true">
+      <span class="size-16 lh-1" style="" no_space_b="true" no_space_e="true">
+       <font class="size-16 lh-1" no_space_b="true" no_space_e="true">
+        <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); text-align: left;" no_space_b="true" no_space_e="true">
+         <b no_space_b="true" no_space_e="true">
+          &bull; The same number of guests
+         </b>
+        </div>
+       </font>
+      </span>
+     </div>
+     <div style="text-align:center;" no_space_b="true" no_space_e="true">
+      <span class="size-16 lh-1" style="" no_space_b="true" no_space_e="true">
+       <font class="size-16 lh-1" no_space_b="true" no_space_e="true">
+        <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); text-align: left;" no_space_b="true" no_space_e="true">
+         <b no_space_b="true" no_space_e="true">
+          &bull; The same room type with a similar view and size
+         </b>
+        </div>
+       </font>
+      </span>
+     </div>
+     <div style="text-align:center;" no_space_b="true" no_space_e="true">
+      <span class="size-16 lh-1" style="" no_space_b="true" no_space_e="true">
+       <font class="size-16 lh-1" no_space_b="true" no_space_e="true">
+        <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); text-align: left;" no_space_b="true" no_space_e="true">
+         <b no_space_b="true" no_space_e="true">
+          &bull; The same billing arrangement
+         </b>
+        </div>
+       </font>
+      </span>
+     </div>
+     <div style="text-align:center;" no_space_b="true" no_space_e="true">
+      <span class="size-16 lh-1" style="" no_space_b="true" no_space_e="true">
+       <font class="size-16 lh-1" no_space_b="true" no_space_e="true">
+        <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); text-align: left;" no_space_b="true" no_space_e="true">
+         <b no_space_b="true" no_space_e="true">
+          &bull; Identical inclusions or additional value-added amenities (e.g. free breakfast)
+         </b>
+        </div>
+       </font>
+      </span>
+     </div>
+    </blockquote>
+    <div style="text-align:center;" no_space_b="true">
+     <span class="size-16 lh-1" style="" no_space_b="true" no_space_e="true">
+      <font class="size-16 lh-1" no_space_b="true">
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); text-align: left;" no_space_b="true" no_space_e="true">
+        <b no_space_b="true" no_space_e="true">
+         <br no_space_b="true" no_space_e="true"/>
+        </b>
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); text-align: left;" no_space_b="true" no_space_e="true">
+        <b no_space_b="true">
+         PLEASE NOTE:
+        </b>
+        <span style="font-weight: 400;" no_space_b="true" no_space_e="true">
+         You don&rsquo;t need to make a direct booking on the competitor website. Simply email the complete details of the claim at reservations@directwithhotels.com. We will get in touch with you within 48 hours from the receipt of the claim to verify its validity.
+        </span>
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        <br no_space_b="true" no_space_e="true"/>
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        <span style="font-weight: 700;" no_space_b="true" no_space_e="true">
+         The Best Price Guarantee does not apply to:
+        </span>
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        <br no_space_b="true" no_space_e="true"/>
+       </div>
+       <div style="text-align: lef; color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        <ol class="innerList defaultList" no_space_b="true" no_space_e="true">
+           
+                <li no_space_b="true" no_space_e="true">Unpublished or negotiated prices (e.g. corporate discount rates, group rates, meeting rates); </li>
+                <li>Special membership rates or promo rates offered through direct email or email solicitations;</li>
+                <li>Package rates (e.g. prices that include a combination of a room and airfare or car rental);</li>
+                <li>Bookings through a website that does not provide the name or location of the hotel until after a reservation has been made;</li>
+                <li>Rates offered on on-request websites that do not provide immediate hotel confirmations;</li>
+                <li>Contracted rates based on bulk buying agreement; and</li>
+                <li>Rates for group buying offered by third parties.</li>
+                
+       
+        </ol>
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        <br no_space_b="true" no_space_e="true"/>
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        The Best Price Guarantee does not apply to existing reservations that are not booked online through a Herald Suites Solana Website, and Herald Suites Solana is not responsible for any fees associated with cancelling a reservation made through a different channel (e.g., a call center, a non-Herald Suites Solana website).&nbsp;&nbsp;
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        <br no_space_b="true" no_space_e="true"/>
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        If a valid Best Price Guarantee claim is submitted without an existing direct booking, the individual making the claim will be contacted by Herald Suites Solana and must make a reservation in the manner communicated by Herald Suites Solana. Booking must be done within 24 hours from receipt of the communication or local check-in time. Failure to make a reservation in the required time period will invalidate the claim.&nbsp;
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        <br no_space_b="true" no_space_e="true"/>
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        The Best Price Guarantee will be suspended when the Herald Suites Solana Websites or certain prices are not available due to an outage, a technical issue, or a circumstance beyond Herald Suites Solana&rsquo;s reasonable control.
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        <br no_space_b="true" no_space_e="true"/>
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); text-align: left;" no_space_b="true" no_space_e="true">
+        <b no_space_b="true" no_space_e="true">
+         If you have a valid claim, Herald Suites Solana will match that same Competing Price provided.
+        </b>
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true" no_space_e="true">
+        <br no_space_b="true" no_space_e="true"/>
+       </div>
+       <div style="color: rgb(95, 95, 95); font-family: Roboto; background-color: rgba(0, 0, 0, 0); font-weight: 400; text-align: left;" no_space_b="true">
+        The Best Price Guarantee is void where prohibited by law. Herald Suites Solana reserves the right to amend, revise, supplement, suspend, or discontinue the Best Price Guarantee for direct bookings or these BPG Terms at anytime in its sole discretion and without prior notice.
+       </div>
+      </font>
+     </span>
+     <font class="size-16 lh-1">
+     </font>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
